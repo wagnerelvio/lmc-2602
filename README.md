@@ -1,3 +1,19 @@
+## Teoria dos Conjuntos e Produto Cartesiano com Python
+
+![Infográfico sobre Teoria dos Conjuntos e Produto Cartesiano](imagens/teoria_dos_conjuntos_e_produto_cartesiano.png)
+
+**Figura 1 – Operações com conjuntos e representação do produto cartesiano utilizando Python.**
+
+O infográfico apresenta os principais conceitos da **Teoria dos Conjuntos**, incluindo união, interseção, diferença, diferença simétrica e produto cartesiano. São demonstradas aplicações práticas em Python, como a identificação de usuários comuns entre sistemas, a comparação de arquivos armazenados em servidores e a geração de pares ordenados. Também é apresentada a representação gráfica do produto cartesiano no plano cartesiano, permitindo relacionar conceitos matemáticos com programação, relações binárias e Teoria dos Grafos.
+
+
+
+
+
+
+
+
+
 # Teoria dos Conjuntos e Produto Cartesiano com Python
 
 ## Descrição
